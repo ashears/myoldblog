@@ -10,15 +10,15 @@ For a computer security class me and group members discovered a flaw in the desi
 These files are held in the path "~/Library/Messages/Archive/<date>", and are created on a **per session**, **per day**, **per conversation** basis.
   
 The flaw in the design can be observed by the following workflow:
-1. User receives a message from user2 
+1. __User receives a message from user2__ 
 
     (This message will be archived in the path specified above)
   
-2. User closes the session of Messages 
+2. **User closes the session of Messages**
 
     (If the session is not closed, the file will get properly deleted from the archive upon deletion of chat)
-3. User re-opens the Messages application
-4. In the application, user deletes chat log with user2 that has the message from a previous session
+3. **User re-opens the Messages application**
+4. **In the application, user deletes chat log with user2 that has the message from a previous session**
 
 After completed these steps, the chat logs that the user specified that they would like to remove from their computer will still be held locally. My group believed this to be a security vulnerability because under all circumstances if a user specifies that they want to delete a file, it should be properly deleted.
 
