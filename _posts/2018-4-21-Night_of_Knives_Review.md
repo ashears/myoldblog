@@ -18,7 +18,7 @@ and ancient powers team up to hold together the fate of the very realm.
 
 Many details of the universe of explained in this book, 
 but in the same manner as Steven Erikson, the author of the Malazan book of the Fallen series, 
-some details of left unknown so as to leave some mystery.
+some details are left unknown so as to leave some mystery.
 
 I have immediately started the Return of the Crimson Guard storyline, which so far is superb. It includes Traveller, 
 one of the most interesting characters in all the books. 
