@@ -11,7 +11,7 @@ title:            Ashton Shears
 tagline:          ''
 description:      'My personal website showing some of what I find interesting.'
 url:              http://ashears.github.io
-baseurl:          /
+baseurl:          ''
 
 
 paginate:         5
