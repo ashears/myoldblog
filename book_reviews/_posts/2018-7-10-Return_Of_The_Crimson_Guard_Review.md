@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Night of Knives Book Review
+title: Return of The Crimson Guard Review
 ---
 
 Earlier this year I read the story "The Return of the Crimson Guard", by Ian C. Esslemont. This was another book set in the Malazan universe. One part that 
