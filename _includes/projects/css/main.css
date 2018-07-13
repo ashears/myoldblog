@@ -456,3 +456,8 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+@media (min-width: 1600px)
+.container{
+	width: 1200px
+}
