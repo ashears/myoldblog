@@ -8,7 +8,7 @@ Communication between parties is one of the most fundamental parts of the Intern
 
 For a computer security class me and group members discovered a flaw in the design of the Messages application for macOS devices. When prompted for deletion, messages get deleted from a users visible chat log, however the file would still be held locally on the machine.
 
-These files are held in the path "~/Library/Messages/Archive/<date>", and are created on a *per session*, *per day*, *perconversation* basis.
+These files are held in the path "~/Library/Messages/Archive/<date>", and are created on a per session, per day, per conversation basis.
   
 The flaw in the design can be observed by the following workflow:
 1. __User receives a message from user2__ 
