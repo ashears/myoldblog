@@ -9,11 +9,9 @@ client: Start Bootstrap
 category: Automation
 description: Multiple scripts that play various games. Includes:
 **Gladamate - Total War: Arena Bot**
-This bot plays the game Total War Arena. 
-Site with download link:
+This bot plays the game Total War Arena. Site with download link:
 
 **NeoAuto - Neopets Bot**
-This bot navigates the Neopets 
-DownLoad Link:
+This bot navigates the Neopets. DownLoad Link:
 
 ---
