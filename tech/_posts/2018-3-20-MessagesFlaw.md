@@ -21,7 +21,7 @@ The flaw in the design can be observed by the following workflow:
 3. **User re-opens the Messages application**
 4. **In the application, user deletes chat log with user2 that has the message from a previous session**
 
-After completed these steps, the chat logs that the user specified that they would like to remove from their computer will still be held locally. My group believed this to be a security vulnerability because under all circumstances if a user specifies that they want to delete a file, it should be properly deleted.
+After completed these steps, the chat logs that the user specified that they would like to remove from their computer will still be held locally. My group believed this to be a security vulnerability because, under all circumstances, if a user specifies that they want to delete a file, it should be properly deleted.
 
 
 
