@@ -1,5 +1,6 @@
 ---
 layout: default
+title: AutoIt Bots
 modal-id: 6
 date: 2018-7-14
 img: AutoItBotsImg.png
