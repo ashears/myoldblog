@@ -3,7 +3,7 @@ layout: post
 title: Gladaumate V1.0
 ---
 
-Today I release Gladaumate Version 1.0, my Total War: Arena automation script. The bot will play the game under told to stop. 
+Today I release Gladaumate Version 1.0, my Total War: Arena automation script. The bot will play the game until told to stop. 
 
 Available at: [Gladaumate V1.0. ](https://mega.nz/#!jDoHXSIS!0lXqlA16DJi1cjLAi5D0jDK0SGX5lFoAnCtTzbbf1DI)
 
