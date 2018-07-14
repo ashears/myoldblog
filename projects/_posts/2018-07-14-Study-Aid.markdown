@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2018-07-14
+date: 2018-07-12
 img: studyaidIMG.png
 alt: image-alt
 description: Unity Project that allows users to build custom decks of flashcards, and then test themselves with these flashcards. Written in C#. Project available at <a href="https://bitbucket.org/ashears/studyaid/src/master/">StudyAid Repo</a>
