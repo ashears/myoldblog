@@ -1,5 +1,6 @@
 ---
 layout: default
+title: LinearAlgebraTutor
 modal-id: 2
 date: 2018-07-14
 img: LinearAlgebraTutor.png
