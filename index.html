@@ -1,37 +1,19 @@
 ---
-layout: default
-title: Home
+layout: page
+title: About
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.exerpt }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<p class="message">
+  Hey there! Welcome to my blog :)
+</p>
+<p>
+  
+Out of anything in this life, I find that creation brings me the most satisfaction. 
+ I use software development as a primary methodology for creation, as I believe that there are many practical applications to be built.  
+<br>
+<br>
+I also enjoy reading, primarily fantasy books. Suggestions for new books to read are highly welcome.
+<br> 
+<br>
+If you would like to contact me, my current primary email is ashears@uoregon.edu.
+</p>
