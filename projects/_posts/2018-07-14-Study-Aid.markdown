@@ -1,5 +1,6 @@
 ---
 layout: default
+title: StudyAid
 modal-id: 5
 date: 2018-07-12
 img: studyaidIMG.png
