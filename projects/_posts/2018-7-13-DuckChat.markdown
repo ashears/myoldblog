@@ -1,5 +1,6 @@
 ---
 layout: default
+title: DuckChat
 modal-id: 3
 date: 2018-7-13
 img: DuckChat.png
