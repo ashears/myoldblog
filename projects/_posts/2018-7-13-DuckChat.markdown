@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2018-7-13
 img: DuckChat.png
 alt: image-alt
 description: DuckChat is a C/C++ client/server messaging application using UDP sockets. Project available at <a href="https://bitbucket.org/ashears/duckchat">DuckChat Repo</a>
