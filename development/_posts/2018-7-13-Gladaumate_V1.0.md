@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ios Message app improper deletion
+title: Gladaumate V1.0
 ---
 
 Today I release Gladaumate Version 1.0, my Total War: Arena automation script. The bot will play the game under told to stop. 
