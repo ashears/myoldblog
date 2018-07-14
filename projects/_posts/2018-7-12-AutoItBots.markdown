@@ -7,6 +7,7 @@ alt: image-alt
 project-date: July 2018
 client: Start Bootstrap
 category: Automation
-description: Multiple scripts that play various games. **Gladamate - Total War Arena Bot**This bot plays the game Total War Arena. Site with **NeoAuto - Neopets Bot**This bot navigates the Neopets. 
+description: Multiple scripts that play various games. <a href= "https://mega.nz/#!jDoHXSIS!0lXqlA16DJi1cjLAi5D0jDK0SGX5lFoAnCtTzbbf1DI">Gladamate - Total War Arena Bot</a>, NeoAuto - Neopets Bot
+
 
 ---
