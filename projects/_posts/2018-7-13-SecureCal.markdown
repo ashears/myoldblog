@@ -1,5 +1,6 @@
 ---
 layout: default
+title: SecureCal
 modal-id: 1
 date: 2018-07-14
 img: SecureCalIMG.png
