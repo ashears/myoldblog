@@ -21,7 +21,7 @@ It can be seen from the very beginning of the series with the fundamentals of al
 Each allomatic metal has a counterpart that has an oppositve reaction.
 The Gods of the world, Ruin and Preservation, also represent this balance.
 
-In the end of the third book of the trilogy, Sazed, takes both Ruin and Preservations power. 
+In the end of the third book of the trilogy, Sazed takes both Ruin and Preservations power. 
 To save the world, it requires the ability to save, and to destroy. Creation lies in the balance of things.
 Another way I would describe the balance between Ruin and Preservation's power is that of chaos and order. 
 In my opinion, a person who devotes their entire being to order, or to chaos, 
