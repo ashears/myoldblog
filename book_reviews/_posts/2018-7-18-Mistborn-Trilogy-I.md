@@ -17,11 +17,11 @@ However, in a fantasy series, the author is able to set events up, withold certa
 SPOILER WARNING:
 
 One theme from this series that I would like to further explore is that of Balance. This embodies a way in which I regard the world.
-It can be seen from the very beginning of the series with the fundamentals of allomancy. 
-Each allomatic metal has a counterpart that has an oppositve reaction.
+It can be seen from the very beginning of the series with the fundamentals of allomancy - one of the types of magic in the series. 
+Each allomatic metal has a counterpart that has an oppositve reaction. For example, burning pewter strengthens a user's resistance, while burning tin enhances their sensitivity.
 The Gods of the world, Ruin and Preservation, also represent this balance.
 
-In the end of the third book of the trilogy, Sazed takes both Ruin and Preservations power. 
+In the end of the third book of the trilogy, Sazed takes both Ruin and Preservation's power. 
 To save the world, it requires the ability to save, and to destroy. Creation lies in the balance of things.
 Another way I would describe the balance between Ruin and Preservation's power is that of chaos and order. 
 In my opinion, a person who devotes their entire being to order, or to chaos, 
