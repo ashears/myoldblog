@@ -44,7 +44,23 @@ title: About
 						</ul>
 						</aside>
 					</div>
-					<script type="text/javascript" src="./showclass.js"></script>
+					<script>
+					var content = document.getElementById("classes");
+					var button = document.getElementById("showclass");
+
+					button.onclick = function(){
+						if(content.className == "open"){
+					/*shrink*/
+					content.className = "";
+					button.innerHTML = "Show Classes";
+							
+			}else{
+				/*expand*/
+				content.className = "open";
+				button.innerHTML = "Hide Classes"
+			}
+		}
+						</script>
 					<hr class= "divider">
 					<img src="./images/UO.png">
 				</div>
