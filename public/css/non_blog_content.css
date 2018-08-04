@@ -1,22 +1,14 @@
-.content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
-}
 
-@media (min-width: 48em) {
-  .content {
-    max-width: 100%;
-    margin-left: 18rem;
-    margin-right: 2rem;
-  }
-}
-
-@media (min-width: 64em) {
-  .content {
-    margin-left: 18rem;
-    margin-right: 4rem;
-  }
-}
 .non_blog_content{
     margin-left: 18rem;
+}
+
+
+article#skills, article#CIS{
+	flex: 1;
+	flex-basis: 300px;
+}
+aside#interests, aside#MATH{
+	flex: 1;
+	flex-basis: 300px;
 }
