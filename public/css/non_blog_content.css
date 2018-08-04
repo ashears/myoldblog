@@ -3,7 +3,22 @@
     margin-left: 18rem;
 }
 
-
+.me{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-bottom: #006400 5px solid;
+	display: flex;
+}
+.me h2{
+	padding: 20px 20px 0 20px;
+	font-family: Georgia;
+}
+.me ul{
+	padding-bottom: 20px;
+}
+.me li{
+	font-family: Georgia;
+}
 article#skills, article#CIS{
 	flex: 1;
 	flex-basis: 300px;
