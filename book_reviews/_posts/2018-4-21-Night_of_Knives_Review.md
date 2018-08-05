@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Night of Knives Book Review
+book_img: /book_reviews/images/night-of-knives.jpg
 ---
 
 I recently read the book Night of Knives, by Ian C. Esslemont. After finishing it, 
