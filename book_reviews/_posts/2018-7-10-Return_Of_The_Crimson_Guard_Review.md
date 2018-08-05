@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Return of The Crimson Guard Review
+book_img: /book_reviews/images/return_of_crimson_guard_cover.jpg
 ---
 
 Earlier this year I read the story "The Return of the Crimson Guard", by Ian C. Esslemont. This was another book set in the Malazan universe. One part that I greatly enjoyed was how it fleshed out certain mysterious characters from other books in the universe.
