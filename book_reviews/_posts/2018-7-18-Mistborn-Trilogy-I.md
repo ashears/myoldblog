@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mistborn Series Trilogy I
-entry_image_url: {{ site.baseurl }}/images/gradpic.JPG
 ---
 <img src="{{ site.baseurl }}/images/gradpic.JPG">
 The newest series I have been exploring is the *Mistborn* Series, written by Brian Sanderson.
