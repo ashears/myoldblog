@@ -2,10 +2,12 @@
 	.non_blog_content {
     		margin-left: 18rem;
 	}
+	.me img{
+		margin-left: 5pc;
+	}
 }
 .me img{
 	height: 200px;
-	margin-left: 5pc;
 	margin-top: 1pc;
    	margin-right: 1pc;
 	border: 2px #006400 solid;
