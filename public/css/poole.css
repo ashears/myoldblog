@@ -263,6 +263,14 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
+.entry img{
+	height: 200px;
+	margin-left: 5pc;
+	margin-top: 1pc;
+   	margin-right: 1pc;
+	border: 2px #006400 solid;
+	border-radius: 10px;
+}
 
 /*
  * Messages
@@ -333,7 +341,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 4em;
 }
 
-.post img{
+/*.post img{
   	height: 200px;
 	margin-left: 5pc;
 	margin-top: 1pc;
@@ -341,6 +349,7 @@ tbody tr:nth-child(odd) th {
 	border: 2px #006400 solid;
 	border-radius: 10px;
 }
+*/
 /* Blog post or page title */
 .page-title,
 .post-title,
