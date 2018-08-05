@@ -2,7 +2,12 @@
 .non_blog_content{
     margin-left: 18rem;
 }
-
+.me img{
+	height: 200px;
+	margin-left: 20pc;
+	border: 2px #006400 solid;
+	border-radius: 10px;
+}
 .me{
 	/*padding-top: 50px;*/
 	padding-bottom: 50px;
