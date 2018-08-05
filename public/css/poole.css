@@ -264,7 +264,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .entry img{
-	float: left
+	float: left;
 	height: 170px;
    	margin-right: 1pc;
 	border: 2px #006400 solid;
