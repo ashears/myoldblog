@@ -1,5 +1,5 @@
-@media: (min-width: 48em){
-	.non_blog_content{
+@media (min-width: 48em) {
+	.non_blog_content {
     		margin-left: 18rem;
 	}
 }
