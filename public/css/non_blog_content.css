@@ -1,6 +1,7 @@
-
-.non_blog_content{min-width: 48em)
-    margin-left: 18rem;
+@media: (min-width: 48em){
+	.non_blog_content{
+    		margin-left: 18rem;
+	}
 }
 .me img{
 	height: 200px;
