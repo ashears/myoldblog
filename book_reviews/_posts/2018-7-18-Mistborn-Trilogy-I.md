@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mistborn Series Trilogy I
-book_img: /images/mistborn-trilogy-cover.jpg
+book_img: /book_reviews/images/mistborn-trilogy-cover.jpg
 ---
 The newest series I have been exploring is the *Mistborn* Series, written by Brian Sanderson.
 After finishing the first trilogy in this series, I can safely say that Brian Sanderson now ranks among my favorite authors.
