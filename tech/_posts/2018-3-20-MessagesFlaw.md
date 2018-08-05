@@ -1,7 +1,7 @@
 ---
 layout: post
 category: tech
-title: ios Message app improper deletion
+title: macOS Message App Data vulnerability
 ---
 
 Communication between parties is one of the most fundamental parts of the Internet. As such there have been numerous application developed to achieve this. With this explosion of communication software, it is important to ask, “What are possible security vulnerabilities in these applications?”
