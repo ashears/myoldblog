@@ -1,9 +1,9 @@
-.bloglist {
+#bloglist {
 	overflow: hidden;	
 	
 }
 
-.showblogs a{
+#showblogs a{
 	cursor: pointer;
 }
 
