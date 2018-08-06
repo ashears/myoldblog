@@ -16,7 +16,7 @@
     transition: all .5s ease-in;
 }
 
-#showblogs a{
+#showblogs {
 	cursor: pointer;
 }
 
