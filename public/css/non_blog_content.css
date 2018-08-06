@@ -11,7 +11,7 @@
 #bloglist.open{
 	    visibility: visible;
     opacity: 1;
-    height: 500px;
+    height: 100px;
     overflow: hidden;
     transition: all .5s ease-in;
 }
