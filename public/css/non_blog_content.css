@@ -3,7 +3,9 @@
 	
 }
 
-
+.showblogs{
+	cursor: pointer;
+}
 
 @media (min-width: 48em) {
 	.non_blog_content {
