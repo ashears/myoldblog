@@ -13,7 +13,7 @@
 	    <a class="sidebar-nav-item" href="{{ site.baseurl }}/portfolio">Portfolio</a>
 	    <a class="sidebar-nav-item" href="{{ site.baseurl }}/">About</a>
 	    <a id="showblogs" class="sidebar-nav-item">Blogs</a>
-	    <div id="classes">
+	    <div id="bloglist">
       <ul>
 	      <li><a class="sidebar-nav-item" href="{{ site.baseurl }}/development">Release Notes</a></li>
 	      <li><a class="sidebar-nav-item" href="{{ site.baseurl }}/tech">Tech</a></li>
@@ -43,7 +43,7 @@
 
 
 <script>
-	var content = document.getElementById("classes");
+	var content = document.getElementById("bloglist");
 	var button = document.getElementById("showblogs");
 	button.onclick = function(){
 		if(content.className == "open"){
