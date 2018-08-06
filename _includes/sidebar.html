@@ -43,18 +43,18 @@
 
 
 <script>
-	var content = document.getElementById("bloglist");
-	var button = document.getElementById("showblogs");
+	var bloglist = document.getElementById("bloglist");
+	var showbut = document.getElementById("showblogs");
 	button.onclick = function(){
-		if(content.className == "open"){
+		if(bloglist.className == "open"){
 		/*shrink*/
-			content.className = "";
-			button.innerHTML = "Blogs";
+			bloglist.className = "";
+			showbut.innerHTML = "Blogs";
 							
 		}else{
 				/*expand*/
-			content.className = "open";
-			button.innerHTML = "Hide Blogs"
+			bloglist.className = "open";
+			showbut.innerHTML = "Hide Blogs"
 		}
 	}
 </script>
