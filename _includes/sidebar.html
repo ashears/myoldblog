@@ -10,12 +10,14 @@
     </div>
 
     <nav class="sidebar-nav">
+	    <a id="showblogs" class="sidebar-nav-item" href="{{ site.baseurl }}/blogs">Blogs</a>
+	    <div id="classes">
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/portfolio">Portfolio</a>
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/development">Development Blog</a>
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/tech">Tech Blog</a>
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/book_reviews">Book Review</a>
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/">About</a>
-
+	    </div>
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
@@ -36,3 +38,21 @@
     <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
   </div>
 </div>
+
+
+<script>
+	var content = document.getElementById("classes");
+	var button = document.getElementById("showblogs");
+	button.onclick = function(){
+		if(content.className == "open"){
+		/*shrink*/
+			content.className = "";
+			button.innerHTML = "Show Classes";
+							
+		}else{
+				/*expand*/
+			content.className = "open";
+			button.innerHTML = "Hide Classes"
+		}
+	}
+</script>
