@@ -101,7 +101,6 @@ aside#interests, aside#MATH{
 	visibility: visible;
 	opacity: 1;
 	height: 500px;
-	overflow: scroll;
 	transition: all .5s ease-in;
 }
 
