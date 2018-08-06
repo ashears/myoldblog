@@ -65,7 +65,7 @@ aside#interests, aside#MATH{
 	margin-top: 0px;
 	border-bottom: #006400 5px solid;
 }
-#education #University h2, p{
+#education #University{
 	text-align: center;
 	font-family: Georgia;
 }
