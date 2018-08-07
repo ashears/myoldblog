@@ -61,6 +61,9 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
+.sidebar #title{
+    text-align: center;
+}
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
