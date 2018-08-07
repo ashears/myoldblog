@@ -83,7 +83,7 @@ aside#interests, aside#MATH{
 }
 
 #classes{
-	margin-left: 200px
+	margin-left: 200px;
 	display: flex;
 	font-family: Georgia;
 	transition: all .5s;
