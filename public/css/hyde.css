@@ -73,7 +73,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 12rem;
     text-align: left;
   }
 }
@@ -118,7 +118,7 @@ a.sidebar-nav-item:focus {
     position: absolute;
     right:  1rem;
     bottom: 1rem;
-    left:   1rem;
+    /*left:   1rem;*/
   }
 }
 
