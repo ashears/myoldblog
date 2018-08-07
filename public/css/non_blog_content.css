@@ -1,10 +1,36 @@
+#bloglist {
+	overflow: hidden;	
+	   display: flex;
+    /*font-family: Georgia;*/
+    transition: all .5s;
+    visibility: hidden;
+    height: 0;
+    opacity: 0;
+    transition: all .5s ease-out;
+	display:block;
+}
+#bloglist.open{
+	    visibility: visible;
+    opacity: 1;
+    height: 100px;
+    overflow: hidden;
+    transition: all .5s ease-in;
+}
 
-.non_blog_content{
-    margin-left: 18rem;
+#showblogs {
+	cursor: pointer;
+}
+
+@media (min-width: 48em) {
+	.non_blog_content {
+    		margin-left: 18rem;
+	}
+	.me img{
+		margin-left: 5pc;
+	}
 }
 .me img{
 	height: 200px;
-	margin-left: 5pc;
 	margin-top: 1pc;
    	margin-right: 1pc;
 	border: 2px #006400 solid;
@@ -39,7 +65,7 @@ aside#interests, aside#MATH{
 	margin-top: 0px;
 	border-bottom: #006400 5px solid;
 }
-#education #University h2, p{
+#education #University{
 	text-align: center;
 	font-family: Georgia;
 }
@@ -75,7 +101,6 @@ aside#interests, aside#MATH{
 	visibility: visible;
 	opacity: 1;
 	height: 500px;
-	overflow: scroll;
 	transition: all .5s ease-in;
 }
 
