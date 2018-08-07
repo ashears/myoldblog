@@ -83,7 +83,7 @@ aside#interests, aside#MATH{
 }
 
 #classes{
-	margin-left: 200px;
+	
 	display: flex;
 	font-family: Georgia;
 	transition: all .5s;
@@ -92,7 +92,13 @@ aside#interests, aside#MATH{
 	opacity: 0;
 	transition: all .5s ease-out;
 }
-
+@media (min-width: 48em) {
+	#classes{
+	margin-left: 200px;	
+	}
+}
+	
+	
 #education #classes h2{
 	text-align: left;
 	padding: 0 20px 0 20px;
