@@ -94,10 +94,14 @@ aside#interests, aside#MATH{
 }
 @media (min-width: 48em) {
 	#classes{
+	margin-left: 100px;	
+	}
+}
+@media (min-width: min-width: 64em) {
+	#classes{
 	margin-left: 200px;	
 	}
 }
-	
 	
 #education #classes h2{
 	text-align: left;
