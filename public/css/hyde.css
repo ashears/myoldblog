@@ -77,7 +77,7 @@ html {
     left: 0;
     bottom: 0;
     width: 12rem;
-    text-align: left;
+    /*text-align: left;*/
   }
 }
 
@@ -102,6 +102,13 @@ html {
   display: block;
   line-height: 1.75;
 }
+
+@media (min-width: 48em) {
+  .sidebar-nav-item {
+    text-align: left;
+  }
+}
+
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: underline;
