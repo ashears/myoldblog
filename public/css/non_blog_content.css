@@ -99,12 +99,12 @@ aside#interests, aside#MATH{
 	transition: all .5s ease-out;
 }
 @media (min-width: 48em) {
-	#classes{
+	#classes,#skills{
 	margin-left: 100px;	
 	}
 }
 @media (min-width: 64em) {
-	#classes{
+	#classes,#skills{
 	margin-left: 200px;	
 	}
 }
