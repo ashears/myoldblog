@@ -10,7 +10,7 @@
 	display:block;
 }
 @media (min-width: 1024px){
-	.proj p {
+	.proj p, .proj h3 {
 		margin-left:200px;
 		margin-right:200px;
 	}
