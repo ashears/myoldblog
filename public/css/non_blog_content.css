@@ -10,7 +10,7 @@
     border-radius: 0;
     margin-bottom: 20px;
 }
-@media(min-width: 1024px)
+@media(min-width: 1024px){
 .slideshow {
     width: 80%;
     margin: auto;
@@ -19,6 +19,7 @@
     margin-bottom: 20px;
     border: 2px #006400 solid;
     border-radius: 15px;
+	}
 }
 
 .slideimg img {
