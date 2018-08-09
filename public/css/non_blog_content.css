@@ -162,10 +162,10 @@ aside#interests, aside#MATH{
 #education img{
 	width: 100px;
 	height: auto;
-	padding-bottom: 10px;
+	padding-bottom: 1rem;
 	display: block;
     margin: 0 auto;
-    margin-bottom: 50px;
+    /*margin-bottom: 50px;*/
 }
 
 #classes{
