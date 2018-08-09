@@ -7,7 +7,7 @@ title: Portfolio
 <body>
 	<article class="portfolio-entry">
 	<div class = "other">
-		<button class="collapsible">LinearAlgebraTutor - Python-Flask Web Application</button>
+		<button class="collapsible" id="collapsible1">LinearAlgebraTutor - Python-Flask Web Application</button>
 		<div class="collapsible-content">
 
 		<h3>
@@ -71,4 +71,7 @@ title: Portfolio
  	 });
 	}
 	</script>
+	$( document ).ready(function() {
+ 		  $( "#collapsible1" ).trigger( "click" );
+	});
       </html>
