@@ -64,6 +64,11 @@
     border: 2px #006400 solid;
     border-radius: 15px;
 	}
+	
+.proj p, .proj h3, .proj h6, .proj a, .proj ul {
+    margin-left: 200px;
+    margin-right: 200px;
+}
 }
 
 .slideimg img {
