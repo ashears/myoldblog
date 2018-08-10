@@ -1,0 +1,180 @@
+---
+layout: about
+title: Portfolio
+---
+<!DOCTYPE html>
+<html>
+<body>
+	<article class="portfolio-entry">
+	<div class = "other">
+		<button class="collapsible" id="collapsible1">LinearAlgebraTutor - Python-Flask Web Application</button>
+		<div class="collapsible-content">
+
+		<h3>
+			<div class = "portfolio-title">LinearAlgebraTutor</div>
+		</h3>
+		<p>
+			Interactive web application designed to teach linear algebra in an accessible manner. 
+			LinearAlgebraTutor Features:<br>
+			<ul>
+				<li>Numerous topics to expand linear algebra knowledge</li>
+				<li>Developed with accessibility in mind, it doesn't read like a textbook</li>
+				<li>Interactive questions for each topic to practice newfound knowledge</li>
+			</ul>
+		</p>
+		<div class="slideshow">
+			<div class="slideimg">
+				<img src="/images/LinearAlgebraTutor.png">
+			</div>
+			<div class="slideimg">
+				<img src="/images/linearalgebratutor2.png">
+			</div>
+			<div class="slideimg">
+				<img src="/images/linearalgebratutor3.png">
+			</div>
+		</div>
+		<a href="https://bitbucket.org/ashears/linearalgebratutor/src/master/">View Source Code</a>
+			</div>
+	</div>
+	</article>
+	
+	<article class="portfolio-entry">
+	<div class="UOcolor1">
+		<button class="collapsible">SecureCal - Python Desktop Application</button>
+		<div class="collapsible-content">
+			<h3>
+		<div class="portfolio-title">SecureCal</div>
+			</h3>
+			<p>
+    		A Calendar application designed from the ground up with data security in mind. 
+		With SecureCal users can feel safe knowing that their data never gets sent over the internet,
+		and is encrypted using modern cryptographic techniques before being stored on the user's computer.
+		<br>
+		Created as a team project for CIS 422: Software Methodology at the University of Oregon. 
+			</p>
+		<div class="slideshow">
+			<div class="slideimg">
+				<img src="/images/securecal1.png">
+			</div>
+			<div class="slideimg">
+				<img src="/images/securecal2.png">
+			</div>
+			<div class="slideimg">
+				<img src="/images/securecal3.png">
+			</div>
+			
+		</div>
+			<a href="https://bitbucket.org/ashears/securecal/src/master/">View Source Code</a>
+		</div>
+	</div>
+	</article>
+	
+	<article class="portfolio-entry">
+		<div class="other">	
+	<button class="collapsible" id="collapsible1">DuckChat - C/C++ UDP Messaging Application using UNIX sockets</button>
+	<div class="collapsible-content">
+			<h3>
+			<div class = "portfolio-title">DuckChat</div>
+		</h3>
+		<p>
+				DuckChat allows users to send datagram messages to other users over a command-line interface. 
+				Features:
+				<ul>
+					<li>Each user can choose a username</li>
+					<li>Users choose to join or create different channels</li>
+					<li>Duckchat servers can be configured with customized network topography</li>
+				</ul>
+		</p>
+			<div class="slideshow">
+			<div class="slideimg">
+				<img src="/images/DuckChat.png">
+			</div>
+			</div>
+			<a href="https://bitbucket.org/ashears/duckchat/src/master/">View Source Code</a>
+	</div>
+	</article>
+	
+	<article class="portfolio-entry">
+	<div class="UOcolor1">
+	<button class="collapsible" id="collapsible1">StudyAid - C#/Unity Application</button>
+	<div class="collapsible-content">
+		<h3>
+			<div class = "portfolio-title">StudyAid</div>
+		</h3>
+	<p>
+		StudyAid is a desktop application that allows users to build a custom set of questions to test,
+		and then gives them the ability to test themselves using these flashcards. 
+		StudyAid was developed using the Unity Engine, and is coded in C#.
+	</p>
+		<div class="slideshow">
+			<div class="slideimg"> <img src="/images/studyaid1.PNG"> </div>
+			
+			<div class="slideimg"> <img src="/images/studyaid2.PNG"> </div>
+			
+		</div>
+		<a href="https://bitbucket.org/ashears/studyaid/src/master/">View Source Code</a>
+	</div>
+	</div>
+	</article>
+	
+	<article class="portfolio-entry">
+	
+	<div class="other">	
+	<button class="collapsible"> Automation Scripts </button>
+	<div class="collapsible-content">
+		<h3>
+		<div class = "portfolio-title">Automation Scripts</div>
+		</h3>
+	<p>
+		Multiple scripts designed to automate certain tasks, including:<br>
+		<b>Gladomate</b>: Total War:Arena Bot. <br>
+		This program plays the game Total War:Arena. Gladomate uses pixel detection to read game-state, 
+		and sends input to react to game-state.<br>
+		Gladomate Features:<br>
+		<ul>
+			<li>Easy to use GUI</li>
+			<li>Customized instructions for different strategies</li>
+			<li>Effective at generating in game resources</li>
+		</ul>
+	</p>
+		<p>
+		<b>NeoAuto</b>: Neopets bot<br>
+		NeoAuto plays the online browser game neopets. It achieves this by parsing html data, 
+		interacting with the webpage using the Component Object Model available for Internet Explorer,
+		and a minor amount of pixel detection.<br>
+		Features:<br>
+		<ul>
+			<li>Completes all daily in-game tasks</li>
+			<li>Can automate multiple flash games</li>
+			<li>Very effective; the COM interface allows rapid web automation</li>
+		</ul>
+		</p>
+
+	</div>
+	</div>
+	</article>
+      </body>
+	
+	<!--- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible_symbol --->
+	<script>
+	var coll = document.getElementsByClassName("collapsible");
+	var i;
+
+	for (i = 0; i < coll.length; i++) {
+ 	 coll[i].addEventListener("click", function() {
+ 	   this.classList.toggle("active");
+  	  var content = this.nextElementSibling;
+  	  if (content.style.maxHeight){
+   	  	 content.style.maxHeight = null;
+ 	   } else {
+   	   content.style.maxHeight = content.scrollHeight + "px";
+  	  } 
+ 	 });
+	}
+	function clickfirstcollaps(){
+		document.getElementById('collapsible1').click()
+	}
+	setTimeout(clickfirstcollaps, 500);
+	</script>
+
+      </html>
