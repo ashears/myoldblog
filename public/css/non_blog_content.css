@@ -68,8 +68,8 @@
 	}
 	
 .portfolio-entry p, .proj h3, .proj h6, .proj a, .portfolio-entry ul {
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 }
 
