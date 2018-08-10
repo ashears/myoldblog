@@ -62,7 +62,9 @@
     overflow: auto;
     margin-bottom: 20px;
     border: 2px #006400 solid;
-    border-radius: 15px;
+    /*border-radius: 15px;*/
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 	}
 	
 .portfolio-entry p, .proj h3, .proj h6, .proj a, .portfolio-entry ul {
