@@ -3,6 +3,9 @@
 	text-align:center;	
 }
 
+#portfolio-area1 {
+	border-bottom: #006400 5px solid;
+}
 
 .collapsible {
     background-color: #777;
