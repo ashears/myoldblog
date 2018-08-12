@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stonewielder
+book_img: /book_reviews/images/Stonewielder.jpg
 ---
 
 <pre>
