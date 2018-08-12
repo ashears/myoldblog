@@ -11,10 +11,11 @@ layout: default
 
       <div class="entry">
         {{ post.excerpt }}
-        {{ post.date }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        
+        <span class="post-date">{{ page.date | date_to_string }}</span>
     </article>
   {% endif %}
   {% endfor %}
