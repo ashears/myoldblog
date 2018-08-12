@@ -6,10 +6,10 @@ book_img: /book_reviews/images/Stonewielder.jpg
 
 
 “When you do not recognize the wrongs of the past, the future takes its revenge. -Author forgotten”&nbsp;
-― Ian C. Esslemont, Stonewielder&nbsp;
-&nbsp;
-The story of Stonewielder takes place on the island of Korel. There, everyone worships “The Lady”, and other worship is outlawed. We find out early in the book that many years in the past The Lady created a wall, called the Stormwall, to keep out mythical aquatic beings called the Stormriders. These so called Stormriders are humanoid shaped beings that rise from the water, riding what looks like a mixture of a horse and a wave. &nbsp;
-&nbsp;
+― Ian C. Esslemont, Stonewielder<br>
+<br>
+The story of Stonewielder takes place on the island of Korel. There, everyone worships “The Lady”, and other worship is outlawed. We find out early in the book that many years in the past The Lady created a wall, called the Stormwall, to keep out mythical aquatic beings called the Stormriders. These so called Stormriders are humanoid shaped beings that rise from the water, riding what looks like a mixture of a horse and a wave. <br>
+<br>
 In order to protect this wall, The Lady has blessed soldiers, called the Stormguard. While these Stormguard will always fight to the death to defend the wall, they also employ vast amount of slaves to defend the wall. Most slaves die against their first encounter with the riders.&nbsp;
 &nbsp;
 The main character of this book is Greymane, an infamous renegade ex-general of the Malazan Empire. Why do they call him Stonewielder? What does he have to do this the Stormwall? &nbsp;
