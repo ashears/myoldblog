@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gladomate V2.0
+date: August 11, 2018
 ---
 
 With this update I have refactored the user interface for Gladomate, with the goal of being more streamlined. 
