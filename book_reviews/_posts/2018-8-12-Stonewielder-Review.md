@@ -3,7 +3,7 @@ layout: post
 title: Stonewielder
 ---
 
-
+<pre>
 “When you do not recognize the wrongs of the past, the future takes its revenge. -Author forgotten” 
 ― Ian C. Esslemont, Stonewielder
 
@@ -32,3 +32,4 @@ The Crippled God was using the slaves brought to the wall as blood sacrifice. Th
 Greymane knew that he had to make a choice. Destroy the stormwall, destroying an entire region from flooding, or let a tradition of bloodshed continue. He knows that he needs to correct the mistakes of the past, and destroy the Stormwall.
 
 Near the end of the book, Greymane plunges his sword into the Stormwall, causing it to come crashing down. With it, came a flood that destroyed much of the surrounding land. After all was finished, Sailors passing over the location where Greymane destroyed the wall noticed a giant armored man at the bottom of the water. One of them says to leave him, that he is the guardian who await’s the Lady’s return.
+</pre>
