@@ -19,7 +19,7 @@ The main character of this book is Greymane, an infamous renegade ex-general of 
 <br>
 With the new Emperor on the throne, he doesn’t care for past grudges, and decides to re-enlist Greymane to his position of High Fist (term for military general of the Malazan Military), and send him back to his old mission, to conquer the lands of Korel. <br>
 <br>
-This past mission was where Greymane became cast out from the Malazan Empire. For some reason, he decided to speak to the Stormriders. Once Greymane reached a point on the Stormwall low to the water, the riders appeared the talk to him. From their perspective, they were the injured party. They believe that the wall keeps them away from their own lands. His goal was to stop the endless years of bloodshed to defend the wall.<br>
+This past mission was where Greymane became cast out from the Malazan Empire. For some reason, he decided to speak to the Stormriders. Once Greymane reached a point on the Stormwall low to the water, the riders appeared to talk to him. From their perspective, they were the injured party. They believe that the wall keeps them away from their own lands. His goal was to stop the endless years of bloodshed to defend the wall.<br>
 <br>
 For approaching the Stormriders with the goal of peace, they gave him a gift. This gift was a large stone sword, and is infact where Greymane gets his name Stonewielder. We find out later in the book that the weapon channeled the warren of D’riss, the Warren of Earth. With this weapon Greymane had the power to reshape entire lands.<br>
 <br>
