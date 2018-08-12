@@ -339,7 +339,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-	min-height:250px;
+	min-height:280px;
   /*margin-bottom: 4em;*/
 	margin-right: auto;
 	margin-left: auto;
