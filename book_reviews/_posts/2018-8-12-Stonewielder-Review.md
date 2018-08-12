@@ -15,7 +15,7 @@ In order to protect this wall, The Lady has blessed soldiers, called the Stormgu
 <br>
 The main character of this book is Greymane, an infamous renegade ex-general of the Malazan Empire. Why do they call him Stonewielder? What does he have to do this the Stormwall? <br>
 <br>
-SPOILERS AHEAD:<br>
+*SPOILERS AHEAD*:<br>
 <br>
 With the new Emperor on the throne, he doesn’t care for past grudges, and decides to re-enlist Greymane to his position of High Fist (term for military general of the Malazan Military), and send him back to his old mission, to conquer the lands of Korel. &nbsp;
 <br>
