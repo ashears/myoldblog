@@ -12,9 +12,9 @@ layout: default
       <div class="entry">
         {{ post.excerpt }}
       </div>
-      <span class="post-date">{{ post.date | date_to_string }}</span>
+      
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-        
+       <span class="post-date">{{ post.date | date_to_string }}</span>
         
     </article>
   {% endif %}
