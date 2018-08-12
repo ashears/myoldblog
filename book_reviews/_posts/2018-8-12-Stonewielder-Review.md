@@ -7,6 +7,7 @@ book_img: /book_reviews/images/Stonewielder.jpg
 
 “When you do not recognize the wrongs of the past, the future takes its revenge. -Author forgotten”&nbsp;
 ― Ian C. Esslemont, Stonewielder<br>
+
 <br>
 The story of Stonewielder takes place on the island of Korel. There, everyone worships “The Lady”, and other worship is outlawed. We find out early in the book that many years in the past The Lady created a wall, called the Stormwall, to keep out mythical aquatic beings called the Stormriders. These so called Stormriders are humanoid shaped beings that rise from the water, riding what looks like a mixture of a horse and a wave. <br>
 <br>
