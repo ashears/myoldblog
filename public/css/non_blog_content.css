@@ -1,8 +1,10 @@
 .button-project-Title{
 	font-weight:bold;
+	float: left;
 }
-.button-project-Ditle{
-	color: grey;	
+.button-project-Desc{
+	color: grey;
+	float: left;
 }
 .portfolio-title{
 	margin-top:1rem;
