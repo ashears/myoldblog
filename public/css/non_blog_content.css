@@ -1,6 +1,7 @@
 .button-project-Title{
 	font-weight:bold;
 	float: left;
+	padding-right: 1rem;
 }
 .button-project-Desc{
 	color: #8eb68b;
