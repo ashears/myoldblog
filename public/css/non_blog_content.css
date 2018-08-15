@@ -131,6 +131,10 @@
     		margin-left: 12rem;
 	}
 }
+
+.me p{
+	margin-top 1pc;	
+}
 .me img{
 	height: 200px;
 	margin-top: 1pc;
