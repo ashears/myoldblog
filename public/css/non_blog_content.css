@@ -143,6 +143,7 @@
 	border-radius: 10px;
 }
 .me{
+	overflow-x: auto;
 	/*padding-top: 50px;*/
 	/*padding-bottom: 50px;*/
 
