@@ -4,6 +4,8 @@ title: Gladomate V2.1
 date: Sept 2, 2018
 ---
 
+Release notes for Gladomate version 2.1:
+
 Updates:
 1. I have added a new preset to the Gladomate automation program, called "Hasdrubal: Melee". <br>
 2. Added functionality for units to move randomly around the enemy base, so that they are not simply sitting around once they reach the base.
